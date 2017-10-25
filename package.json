@@ -1,0 +1,28 @@
+{
+  "name": "bmjs-engpronouns",
+  "version": "1.0.0",
+  "description": "A object with functions designed for retrieving different pronoun forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brent258/bmjs-engpronouns.git"
+  },
+  "keywords": [
+    "english",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Brent McCoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brent258/bmjs-engpronouns/issues"
+  },
+  "homepage": "https://github.com/brent258/bmjs-engpronouns#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
